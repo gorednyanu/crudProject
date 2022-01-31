@@ -1,0 +1,25 @@
+{
+  "user": [
+    {
+      "name": "hanu",
+      "address": "pune",
+      "email": "hanu@gmail.com",
+      "contact": "898987654",
+      "id": 1
+    },
+    {
+      "name": "laxman123",
+      "email": "laxman123@gmail.com",
+      "contact": "9945676345",
+      "address": "Paranda",
+      "id": 5
+    },
+    {
+      "name": "Dnyanu",
+      "email": "dnyanu@gmail.com",
+      "contact": "8888453698",
+      "address": "hyd",
+      "id": 7
+    }
+  ]
+}
